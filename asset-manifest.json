@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/eternal-rose/static/css/main.240719da.css",
+    "main.js": "/eternal-rose/static/js/main.6af352f0.js",
+    "index.html": "/eternal-rose/index.html",
+    "main.240719da.css.map": "/eternal-rose/static/css/main.240719da.css.map",
+    "main.6af352f0.js.map": "/eternal-rose/static/js/main.6af352f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.240719da.css",
+    "static/js/main.6af352f0.js"
+  ]
+}
